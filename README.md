@@ -3,7 +3,7 @@ by Ahmad Kalhor | 2019-2020 1st.Semester
 
 List of HW and Mini-projects:
 
-* Homework 1: Linear Perceptron, AdaLine, Madaline, Mcculloch Pitts [code link]
+* Homework 1: Linear Perceptron, AdaLine, Madaline, Mcculloch Pitts [code link] (https://github.com/Youlenda/Neural-Networks-and-Deep-Learning-Course/tree/master/Homework/HW1)
 * Homework 2: Multi-Layer Perceptron (MLP), Autoencoder, Restricted Boltzmann Machine (RBM)
 * Homework 3: Hebbian Learning Rule, Auto-Associative Network, Discrete Hopfield Net, Bidirectional Associative Memory (BAM), Hamming Distance
 * Homework 4: Self-organizing Map (SOM), Hamming Net
