@@ -3,7 +3,7 @@ by Ahmad Kalhor | 2019-2020 1st.Semester
 
 List of Submitted HW and Mini-projects by Me:
 
-* Links include codes as well as reports in Farsi
+(Links include codes as well as reports in Farsi.)
 
 * Homework 1: Linear Perceptron, AdaLine, Madaline, Mcculloch Pitts [link](https://github.com/Youlenda/Neural-Networks-and-Deep-Learning-Course/tree/master/Homework/HW1)
 * Homework 2: Multi-Layer Perceptron (MLP), Autoencoder, Restricted Boltzmann Machine (RBM) [link](https://github.com/Youlenda/Neural-Networks-and-Deep-Learning-Course/tree/master/Homeworks/HW2)
